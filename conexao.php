@@ -4,7 +4,7 @@
 define('HOST', 'localhost');
 define('USER', 'root');
 define('PASSWORD', '');
-define('DATABASE', 'gerar-excel');
+define('DATABASE', 'minha_base_de_dados');
 
 function conectar()
 {
